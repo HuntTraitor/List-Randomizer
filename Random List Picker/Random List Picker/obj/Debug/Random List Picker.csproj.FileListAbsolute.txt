@@ -1,0 +1,11 @@
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\bin\Debug\Random List Picker.exe.config
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\bin\Debug\Random List Picker.exe
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\bin\Debug\Random List Picker.pdb
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\obj\Debug\Random List Picker.csproj.AssemblyReference.cache
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\obj\Debug\Random List Picker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\obj\Debug\Random_List_Picker.Properties.Resources.resources
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\obj\Debug\Random List Picker.csproj.GenerateResource.cache
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\obj\Debug\Random List Picker.csproj.CoreCompileInputs.cache
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\obj\Debug\Random List Picker.exe
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\obj\Debug\Random List Picker.pdb
+C:\Users\Hunter Tratar\source\repos\Random List Picker\Random List Picker\obj\Debug\Random_List_Picker.rerol.resources
